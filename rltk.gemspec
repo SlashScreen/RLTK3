@@ -8,7 +8,7 @@ require File.expand_path("../lib/rltk/version", __FILE__)
 Gem::Specification.new do |s|
 	s.platform = Gem::Platform::RUBY
 	
-	s.name        = 'rltk'
+	s.name        = 'rltk3'
 	s.version     = RLTK::VERSION
 	s.summary     = 'The Ruby Language Toolkit'
 	s.description =
