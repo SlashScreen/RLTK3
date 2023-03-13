@@ -1,5 +1,7 @@
 # Welcome to the Ruby Language Toolkit
 
+**NOTE: This is not actively maintained or dfeveloped, and I probably cannot help you with support. This is a fork of [Chris Wailes' project](https://github.com/chriswailes/RLTK) intended to keep the Ruby gem up to date, and accept merge requests to fix any breaking changes.**
+
 RLTK is a collection of classes and methods designed to help programmers work with languages in an easy to use and straightforward manner.  This toolkit provides the following features:
 
 * Lexer generator
